@@ -4,6 +4,8 @@ This is a simple app that uses the [TensorFlow](https://www.tensorflow.org/) lib
 
 Try it out, test it on a variety of objects, you may notice some things are harder to recognize than others, especially if they are similar to something else. You may need to add more classes or training data to be able to tell them apart.
 
+link: <https://tensorflow-app-ebon.vercel.app>
+
 ## Recap
 
 In this codelab I learned:
